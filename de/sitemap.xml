@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://pfvbell.github.io/dataportfolio/de/series/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://pfvbell.github.io/dataportfolio/es/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://pfvbell.github.io/dataportfolio/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://pfvbell.github.io/dataportfolio/de/series/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://pfvbell.github.io/dataportfolio/de/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://pfvbell.github.io/dataportfolio/es/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://pfvbell.github.io/dataportfolio/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://pfvbell.github.io/dataportfolio/de/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://pfvbell.github.io/dataportfolio/de/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://pfvbell.github.io/dataportfolio/es/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://pfvbell.github.io/dataportfolio/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://pfvbell.github.io/dataportfolio/de/"
+                />
+  </url>
+  
+</urlset>
